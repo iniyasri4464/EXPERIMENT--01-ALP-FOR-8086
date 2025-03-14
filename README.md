@@ -1,7 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :Iniyasri S
-Roll no :212223230081
-Date of experiment :3.3.25
+<h4>Name : INIYASRI S</h4>
+<h4>Roll no : 212223230081</h4>
+<h4>Date of experiment : 3.3.25</h4>
+
 
 
 
